@@ -6,14 +6,14 @@ Chapter 02: **DONE**	<br />
 Chapter 03: **DONE**	<br />
 Chapter 04: **DONE**	<br />
 Chapter 05: **DONE**	<br />
-Chapter 06: 		<br />
-Chapter 07:			<br />
+Chapter 06: **DONE**	<br />
+Chapter 07:	**DONE**	<br />
 Chapter 08: 		<br />
 Chapter 09:			<br />
 Chapter 10:			<br />
 
 ##TODO:
-Check tests for end of chapter 5: **DONE**
+**Chapter 7 Exercises:**  (Page 87 BOOK/ Page 94 PDF)
 
 ##Useful Commands
 **Start the development server** <br />
