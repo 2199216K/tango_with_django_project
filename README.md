@@ -13,7 +13,7 @@ Chapter 09:			<br />
 Chapter 10:			<br />
 
 ##TODO:
-**Chapter 7 Exercises:**  (Page 87 BOOK/ Page 94 PDF)
+**Chapter 8**
 
 ##Useful Commands
 **Start the development server** <br />
