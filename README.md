@@ -9,11 +9,11 @@ Chapter 05: **DONE**	<br />
 Chapter 06: **DONE**	<br />
 Chapter 07:	**DONE**	<br />
 Chapter 08: **DONE**	<br />
-Chapter 09:			<br />
+Chapter 09:	**DONE**	<br />
 Chapter 10:			<br />
 
 ##TODO:
-**RUN TESTS AFTER CHAPTER 8**
+**RUN TESTS AFTER CHAPTER 10**
 
 ##Useful Commands
 **Start the development server** <br />
