@@ -10,7 +10,7 @@ Chapter 06: **DONE**	<br />
 Chapter 07:	**DONE**	<br />
 Chapter 08: **DONE**	<br />
 Chapter 09:	**DONE**	<br />
-Chapter 10:			<br />
+Chapter 10:	**DONE**	<br />
 
 ##TODO:
 **RUN TESTS AFTER CHAPTER 10**
